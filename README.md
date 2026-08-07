@@ -1,22 +1,24 @@
-# Fashion MNIST Clothing Image Classification
+# Fashion MNIST Clothing Image Classification Using TensorFlow & Keras
 
-A deep learning project using TensorFlow and Keras to classify grayscale clothing images from the Fashion‑MNIST dataset.
+A deep learning project focused on understanding the workflow of an image classification model using TensorFlow and Keras with the Fashion-MNIST dataset.
 
 ## 📌 Project Overview
-- Built a fully custom neural network (MLP) for image classification.
-- Preprocessed and normalized the dataset.
-- Trained the model with validation monitoring.
-- Evaluated performance on the test set.
-- Visualized predictions and analyzed misclassified samples.
+
+* Studied and analyzed a neural network classification workflow.
+* Explored data preprocessing and normalization steps.
+* Examined model architecture and training process.
+* Experimented with training parameters to observe their effect on model performance.
+* Evaluated predictions and analyzed classification results.
 
 ## 📊 Model Performance
-- Achieved ~88% validation accuracy.
-- Achieved ~87% test accuracy.
-- Included visual examples of correct and incorrect predictions.
+
+* Achieved approximately 88% validation accuracy and 87% test accuracy during experimentation.
+* Reviewed correct and incorrect predictions to better understand model behavior and limitations.
 
 ## 🧠 Technologies Used
-- Python
-- TensorFlow / Keras
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+
+* Python
+* TensorFlow / Keras
+* NumPy
+* Matplotlib
+* Jupyter Notebook
